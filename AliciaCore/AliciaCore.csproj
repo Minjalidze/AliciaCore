@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AliciaCore.Commons\AliciaCore.Commons.csproj" />
+    <ProjectReference Include="..\AliciaCore.Network\AliciaCore.Network.csproj" />
+  </ItemGroup>
+
+</Project>
